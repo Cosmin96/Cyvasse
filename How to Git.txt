@@ -1,0 +1,15 @@
+1)For getting the project initially:
+git clone https://github.com/Cosmin96/Cyvasse
+
+2)For pulling commits from Github:
+
+git pull origin master
+
+3)For pushing commits to the repo:
+
+git add .
+git commit -m "Write a clear and brief message to let others know what the commit is about"
+git push origin master
+
+
+That's all for now!
