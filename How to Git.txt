@@ -11,5 +11,10 @@ git add .
 git commit -m "Write a clear and brief message to let others know what the commit is about"
 git push origin master
 
+4)For mergin commits on the repo:
+git add .
+git commit -m "Write a clear and brief message to let others know what the commit is about"
+git pull origin master(pull before pushing. might give a merge error that has to be fixed...let's hope not)
+git push origin master
 
 That's all for now!
